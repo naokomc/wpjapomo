@@ -1,0 +1,1000 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive 1.6.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-30 23:06+0100\n"
+"PO-Revision-Date: 2012-07-27 15:26+0900\n"
+"Last-Translator: Naoko McCracken <info@nao-net.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ responsive
+#: 404.php:26
+#: archive.php:103
+#: blog-excerpt.php:95
+#: blog.php:94
+#: content-sidebar-half-page.php:91
+#: content-sidebar-page.php:91
+#: full-width-page.php:91
+#: image.php:84
+#: index.php:84
+#: landing-page.php:59
+#: page.php:90
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr "404 &#8212; お探しのページがみつかりません。"
+
+# @ responsive
+#: 404.php:27
+#: archive.php:104
+#: blog-excerpt.php:96
+#: blog.php:95
+#: content-sidebar-half-page.php:92
+#: content-sidebar-page.php:92
+#: full-width-page.php:92
+#: landing-page.php:60
+#: page.php:91
+msgid "Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our options here."
+msgstr "落ち着いてください、大丈夫です。他のオプションを一緒に考えてみましょう。"
+
+# @ responsive
+#: 404.php:28
+#: archive.php:105
+#: blog-excerpt.php:97
+#: blog.php:96
+#: content-sidebar-half-page.php:93
+#: content-sidebar-page.php:93
+#: full-width-page.php:93
+#: image.php:86
+#: index.php:86
+#: landing-page.php:61
+#: page.php:92
+msgid "You can return"
+msgstr ""
+
+# @ responsive
+#: 404.php:28
+#: archive.php:105
+#: blog-excerpt.php:97
+#: blog.php:96
+#: content-sidebar-half-page.php:93
+#: content-sidebar-page.php:93
+#: full-width-page.php:93
+#: landing-page.php:61
+#: page.php:92
+msgid "Home"
+msgstr "ホーム"
+
+# @ responsive
+#: 404.php:28
+#: archive.php:105
+#: blog-excerpt.php:97
+#: blog.php:96
+#: content-sidebar-half-page.php:93
+#: content-sidebar-page.php:93
+#: full-width-page.php:93
+#: image.php:86
+#: index.php:86
+#: landing-page.php:61
+#: page.php:92
+msgid "&larr; Home"
+msgstr "&larr; ホーム"
+
+# @ responsive
+#: 404.php:28
+#: archive.php:105
+#: blog-excerpt.php:97
+#: blog.php:96
+#: content-sidebar-half-page.php:93
+#: content-sidebar-page.php:93
+#: full-width-page.php:93
+#: image.php:86
+#: index.php:86
+#: landing-page.php:61
+#: page.php:92
+msgid "or search for the page you were looking for"
+msgstr ""
+
+# @ responsive
+#: archive.php:34
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+# @ responsive
+#: archive.php:36
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+# @ responsive
+#: archive.php:38
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+# @ responsive
+#: archive.php:40
+msgid "Blog Archives"
+msgstr "ブログアーカイブ"
+
+# @ responsive
+#: archive.php:47
+#: blog-excerpt.php:41
+#: blog.php:40
+#: index.php:30
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "%s のパーマリンク"
+
+# @ responsive
+#: archive.php:51
+#: blog-excerpt.php:45
+#: blog.php:44
+#: content-sidebar-half-page.php:41
+#: content-sidebar-page.php:41
+#: full-width-page.php:41
+#: image.php:35
+#: index.php:34
+#: page.php:40
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s by %3$s"
+msgstr "<span class=\"%1$s\">投稿日</span> %2$s (%3$s)"
+
+# @ responsive
+#: archive.php:59
+#: blog-excerpt.php:53
+#: blog.php:52
+#: content-sidebar-half-page.php:49
+#: content-sidebar-page.php:49
+#: full-width-page.php:49
+#: image.php:43
+#: index.php:42
+#: page.php:48
+#, php-format
+msgid "View all posts by %s"
+msgstr "%s の投稿をすべて表示"
+
+# @ responsive
+#: archive.php:67
+#: blog-excerpt.php:61
+#: blog.php:60
+#: content-sidebar-half-page.php:57
+#: content-sidebar-page.php:57
+#: full-width-page.php:57
+#: image.php:51
+#: index.php:50
+#: page.php:56
+msgid "No Comments &darr;"
+msgstr "コメントはありません &darr;"
+
+# @ responsive
+#: archive.php:67
+#: blog-excerpt.php:61
+#: blog.php:60
+#: content-sidebar-half-page.php:57
+#: content-sidebar-page.php:57
+#: full-width-page.php:57
+#: image.php:51
+#: index.php:50
+#: page.php:56
+msgid "1 Comment &darr;"
+msgstr "1件のコメント &darr;"
+
+# @ responsive
+#: archive.php:67
+#: blog-excerpt.php:61
+#: blog.php:60
+#: content-sidebar-half-page.php:57
+#: content-sidebar-page.php:57
+#: full-width-page.php:57
+#: image.php:51
+#: index.php:50
+#: page.php:56
+msgid "% Comments &darr;"
+msgstr "%件のコメント &darr;"
+
+# @ responsive
+#: archive.php:79
+#: blog-excerpt.php:73
+#: blog.php:72
+#: content-sidebar-half-page.php:65
+#: content-sidebar-page.php:65
+#: full-width-page.php:65
+#: image.php:60
+#: index.php:62
+#: landing-page.php:35
+#: page.php:64
+msgid "Pages:"
+msgstr "ページ:"
+
+# @ responsive
+#: archive.php:83
+#: blog-excerpt.php:77
+#: blog.php:76
+#: content-sidebar-half-page.php:70
+#: content-sidebar-page.php:70
+#: full-width-page.php:70
+#: image.php:70
+#: index.php:66
+#: landing-page.php:40
+#: page.php:69
+msgid "Tagged with:"
+msgstr "タグ:"
+
+# @ responsive
+#: archive.php:84
+#: blog-excerpt.php:78
+#: blog.php:77
+#: content-sidebar-half-page.php:71
+#: content-sidebar-page.php:71
+#: full-width-page.php:71
+#: image.php:71
+#: index.php:67
+#: landing-page.php:41
+#: page.php:70
+#, php-format
+msgid "Posted in %s"
+msgstr "カテゴリー: %s"
+
+# @ responsive
+#: archive.php:87
+#: blog-excerpt.php:81
+#: blog.php:80
+#: content-sidebar-half-page.php:75
+#: content-sidebar-page.php:75
+#: full-width-page.php:75
+#: image.php:75
+#: index.php:70
+#: landing-page.php:45
+#: page.php:74
+msgid "Edit"
+msgstr "編集"
+
+# @ responsive
+#: archive.php:96
+#: blog-excerpt.php:88
+#: blog.php:87
+#: content-sidebar-half-page.php:84
+#: content-sidebar-page.php:84
+#: full-width-page.php:84
+#: index.php:77
+#: landing-page.php:52
+#: page.php:83
+msgid "&#8249; Older posts"
+msgstr "&#8249; 古い投稿"
+
+# @ responsive
+#: archive.php:97
+#: blog-excerpt.php:89
+#: blog.php:88
+#: content-sidebar-half-page.php:85
+#: content-sidebar-page.php:85
+#: full-width-page.php:85
+#: index.php:78
+#: landing-page.php:53
+#: page.php:84
+msgid "Newer posts &#8250;"
+msgstr "新しい投稿 &#8250;"
+
+# @ responsive
+#: blog.php:71
+#: content-sidebar-half-page.php:64
+#: content-sidebar-page.php:64
+#: full-width-page.php:64
+#: image.php:59
+#: index.php:61
+#: landing-page.php:34
+#: page.php:63
+msgid "Read more &#8250;"
+msgstr "続きを読む &#8250;"
+
+# @ responsive
+#: comments.php:22
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するにはパスワードを入力してください。"
+
+# @ responsive
+#: comments.php:29
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgstr "&ldquo;%2$s&rdquo; への1件のコメント"
+
+# @ responsive
+#: comments.php:36
+#: comments.php:47
+msgid "&#8249; Older comments"
+msgstr "&#8249; 古いコメント"
+
+# @ responsive
+#: comments.php:37
+#: comments.php:48
+msgid "Newer comments &#8250;"
+msgstr "新しいコメント &#8250;"
+
+# @ responsive
+#: comments.php:59
+msgid "Pings&#47;Trackbacks"
+msgstr "トラックバック・ピンバック"
+
+# @ responsive
+#: comments.php:62
+msgid "for"
+msgstr ""
+
+# @ responsive
+#: comments.php:75
+msgid "Name"
+msgstr "名前"
+
+# @ responsive
+#: comments.php:77
+msgid "E-mail"
+msgstr "メールアドレス"
+
+# @ responsive
+#: comments.php:79
+msgid "Website"
+msgstr "ウェブサイト"
+
+# @ responsive
+#: footer.php:104
+msgid "&copy;"
+msgstr "&copy;"
+
+# @ responsive
+#: footer.php:109
+msgid "scroll to top"
+msgstr "トップへ戻る"
+
+# @ responsive
+#: footer.php:109
+msgid "&uarr;"
+msgstr "&uarr;"
+
+# @ responsive
+#: footer.php:112
+msgid "http://themeid.com/responsive-theme/"
+msgstr "http://themeid.com/responsive-theme/"
+
+# @ responsive
+#: footer.php:112
+msgid "Responsive Theme"
+msgstr "Responsive テーマ"
+
+# @ responsive
+#: footer.php:114
+msgid "powered by"
+msgstr "Powered by"
+
+# @ responsive
+#: footer.php:114
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+# @ responsive
+#: footer.php:114
+msgid "WordPress"
+msgstr "WordPress"
+
+# @ responsive
+#: home.php:39
+msgid "Hello, World!"
+msgstr "Hello, World!"
+
+# @ responsive
+#: home.php:53
+msgid "Your H2 subheadline here"
+msgstr "H2 サブヘッドラインがここに表示されます"
+
+#: home.php:67
+msgid "Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like."
+msgstr "タイトル、サブタイトル、このコンテンツはテーマ設定から編集できます。アクション喚起ボタンとリンク先も同様です。右側の画像は、お好みの画像や YouTube などの動画を指定できます。"
+
+# @ responsive
+#: home.php:85
+msgid "Call to Action"
+msgstr "いますぐ登録！"
+
+# @ responsive
+#: image.php:31
+msgid "&#8249; Return to"
+msgstr "&#8249; 戻る:"
+
+# @ responsive
+#: image.php:85
+#: index.php:85
+msgid "Don't panic, we'll get through this together. Let's explore our options here."
+msgstr "落ち着いてください、大丈夫です。他のオプションを一緒に考えてみましょう。"
+
+# @ responsive
+#: image.php:86
+#: index.php:86
+msgid "home"
+msgstr "ホーム"
+
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: search.php:78
+msgid "Your search for"
+msgstr "検索結果:"
+
+#: search.php:78
+msgid "did not match any entries"
+msgstr ""
+
+# @ responsive
+#: searchform.php:22
+msgid "search here &hellip;"
+msgstr "検索&hellip;"
+
+# @ responsive
+#: searchform.php:23
+msgid "Go"
+msgstr "実行"
+
+# @ responsive
+#: sidebar-gallery.php:25
+msgid "Image Information"
+msgstr "画像の情報"
+
+# @ responsive
+#: sidebar-gallery.php:30
+msgid "Full Size:"
+msgstr "フルサイズ:"
+
+# @ responsive
+#: sidebar-gallery.php:33
+msgid "Aperture: f&#47;"
+msgstr "絞り: f&#47;"
+
+# @ responsive
+#: sidebar-gallery.php:37
+msgid "Focal Length:"
+msgstr "焦点距離:"
+
+# @ responsive
+#: sidebar-gallery.php:37
+msgid "mm"
+msgstr "mm"
+
+# @ responsive
+#: sidebar-gallery.php:41
+msgid "ISO:"
+msgstr "ISO:"
+
+# @ responsive
+#: sidebar-gallery.php:45
+msgid "Shutter:"
+msgstr "シャッター:"
+
+# @ responsive
+#: sidebar-gallery.php:62
+msgid "Camera:"
+msgstr "カメラ:"
+
+# @ responsive
+#: sidebar-half-left.php:27
+#: sidebar-left-half.php:27
+#: sidebar-left.php:27
+#: sidebar-right-half.php:27
+#: sidebar-right.php:27
+#: sidebar.php:27
+msgid "In Archive"
+msgstr ""
+
+# @ responsive
+#: sidebar-home.php:28
+#: includes/functions.php:481
+msgid "Home Widget 1"
+msgstr "ホームウィジェット 1"
+
+#: sidebar-home.php:29
+msgid "This is your first home widget box. To edit please go to Appearance > Widgets and choose 6th widget from the top in area six called Home Widget 1. Title is also manageable from widgets as well."
+msgstr "1つ目のホームウィジェットボックスです。編集するには、「外観 > ウィジェット」画面で上から6つめにある「ホームウィジェット 1」（エリア 6）を選んでください。このウィジェット内でタイトルも指定できます。"
+
+# @ responsive
+#: sidebar-home.php:43
+#: includes/functions.php:491
+msgid "Home Widget 2"
+msgstr "ホームウィジェット 2"
+
+#: sidebar-home.php:44
+msgid "This is your second home widget box. To edit please go to Appearance > Widgets and choose 7th widget from the top in area seven called Home Widget 2. Title is also manageable from widgets as well."
+msgstr "2つ目のホームウィジェットボックスです。編集するには、「外観 > ウィジェット」画面で上から7つめにある「ホームウィジェット 2」（エリア 7）を選んでください。このウィジェット内でタイトルも指定できます。"
+
+# @ responsive
+#: sidebar-home.php:58
+#: includes/functions.php:501
+msgid "Home Widget 3"
+msgstr "ホームウィジェット 3"
+
+#: sidebar-home.php:59
+msgid "This is your third home widget box. To edit please go to Appearance > Widgets and choose 8th widget from the top in area eight called Home Widget 3. Title is also manageable from widgets as well."
+msgstr "3つ目のホームウィジェットボックスです。編集するには、「外観 > ウィジェット」画面で上から8つめにある「ホームウィジェット 3」（エリア 8）を選んでください。このウィジェット内でタイトルも指定できます。"
+
+# @ responsive
+#: single.php:67
+msgid "About"
+msgstr "紹介"
+
+# @ responsive
+#: sitemap.php:42
+msgid "Categories"
+msgstr "カテゴリー"
+
+# @ responsive
+#: sitemap.php:47
+msgid "Latest Posts"
+msgstr "最新の投稿"
+
+# @ responsive
+#: sitemap.php:58
+msgid "Pages"
+msgstr "固定ページ"
+
+# @ responsive
+#: includes/functions.php:74
+msgid "Top Menu"
+msgstr "トップメニュー"
+
+# @ responsive
+#: includes/functions.php:75
+msgid "Header Menu"
+msgstr "ヘッダーメニュー"
+
+# @ responsive
+#: includes/functions.php:76
+msgid "Sub-Header Menu"
+msgstr "サブヘッダーメニュー"
+
+# @ responsive
+#: includes/functions.php:77
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+# @ responsive
+#: includes/functions.php:304
+msgid "Archive for "
+msgstr ""
+
+# @ responsive
+#: includes/functions.php:357
+msgid "Search results for "
+msgstr "検索結果:"
+
+# @ responsive
+#: includes/functions.php:360
+msgid "Posts tagged "
+msgstr "タグのついた記事"
+
+# @ responsive
+#: includes/functions.php:365
+msgid "All posts by "
+msgstr ""
+
+# @ responsive
+#: includes/functions.php:368
+msgid "Error 404 "
+msgstr "404 エラー"
+
+# @ responsive
+#: includes/functions.php:373
+msgid "Page"
+msgstr "固定ページ"
+
+# @ responsive
+#: includes/functions.php:419
+msgid "Untitled"
+msgstr "名称未設定"
+
+# @ responsive
+#: includes/functions.php:431
+msgid "Main Sidebar"
+msgstr "メインサイドバー"
+
+# @ responsive
+#: includes/functions.php:432
+msgid "Area One - sidebar.php"
+msgstr "エリア 1 - sidebar.php"
+
+# @ responsive
+#: includes/functions.php:441
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+# @ responsive
+#: includes/functions.php:442
+msgid "Area Two - sidebar-right.php"
+msgstr "エリア 2 - sidebar-right.php"
+
+# @ responsive
+#: includes/functions.php:451
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+# @ responsive
+#: includes/functions.php:452
+msgid "Area Three - sidebar-left.php"
+msgstr "エリア 3 - sidebar-left.php"
+
+# @ responsive
+#: includes/functions.php:461
+msgid "Left Sidebar Half Page"
+msgstr "左サイドバー半ページ"
+
+# @ responsive
+#: includes/functions.php:462
+msgid "Area Four - sidebar-left-half.php"
+msgstr "エリア 4 - sidebar-left-half.php"
+
+# @ responsive
+#: includes/functions.php:471
+msgid "Right Sidebar Half Page"
+msgstr "右サイドバー半ページ"
+
+# @ responsive
+#: includes/functions.php:472
+msgid "Area Five - sidebar-right-half.php"
+msgstr "エリア 5 - sidebar-right-half.php"
+
+# @ responsive
+#: includes/functions.php:482
+msgid "Area Six - sidebar-home.php"
+msgstr "エリア 6 - sidebar-home.php"
+
+# @ responsive
+#: includes/functions.php:492
+msgid "Area Seven - sidebar-home.php"
+msgstr "エリア 7 - sidebar-home.php"
+
+# @ responsive
+#: includes/functions.php:502
+msgid "Area Eight - sidebar-home.php"
+msgstr "エリア 8 - sidebar-home.php"
+
+# @ responsive
+#: includes/functions.php:511
+msgid "Gallery Sidebar"
+msgstr "ギャラリーサイドバー"
+
+# @ responsive
+#: includes/functions.php:512
+msgid "Area Nine - sidebar-gallery.php"
+msgstr "エリア 9 - sidebar-gallery.php"
+
+# @ responsive
+#: includes/theme-options.php:45
+#: includes/theme-options.php:118
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+# @ responsive
+#: includes/theme-options.php:122
+msgid "Options Saved"
+msgstr "設定を保存しました"
+
+# @ responsive
+#: includes/theme-options.php:131
+msgid "Theme Elements"
+msgstr "テーマ要素"
+
+# @ responsive
+#: includes/theme-options.php:140
+msgid "Disable Breadcrumb Lists?"
+msgstr "パンくずリストを非表示にしますか ?"
+
+# @ responsive
+#: includes/theme-options.php:143
+#: includes/theme-options.php:154
+msgid "Check to disable"
+msgstr "非表示にする場合はチェック"
+
+# @ responsive
+#: includes/theme-options.php:151
+msgid "Disable Call to Action Button?"
+msgstr "アクション喚起ボタンを非表示にしますか ?"
+
+# @ responsive
+#: includes/theme-options.php:156
+#: includes/theme-options.php:253
+#: includes/theme-options.php:311
+#: includes/theme-options.php:398
+#: includes/theme-options.php:424
+msgid "Save Options"
+msgstr "設定を保存"
+
+# @ responsive
+#: includes/theme-options.php:163
+msgid "Logo Upload"
+msgstr "ロゴのアップロード"
+
+# @ responsive
+#: includes/theme-options.php:171
+msgid "Custom Header"
+msgstr "カスタムヘッダー"
+
+#: includes/theme-options.php:174
+msgid "Need to replace or remove default logo?"
+msgstr "デフォルトのロゴを差し替えまたは削除しますか ?"
+
+#: includes/theme-options.php:174
+#, php-format
+msgid "<a href=\"%s\">Click here</a>."
+msgstr "<a href=\"%s\">ここをクリック</a>。"
+
+# @ responsive
+#: includes/theme-options.php:181
+msgid "Home Page"
+msgstr "ホームページ"
+
+# @ responsive
+#: includes/theme-options.php:189
+msgid "Headline"
+msgstr "ヘッドライン"
+
+# @ responsive
+#: includes/theme-options.php:192
+msgid "Enter your headline"
+msgstr "ヘッドラインを入力"
+
+# @ responsive
+#: includes/theme-options.php:200
+msgid "Subheadline"
+msgstr "サブヘッドライン"
+
+# @ responsive
+#: includes/theme-options.php:203
+msgid "Enter your subheadline"
+msgstr "サブヘッドラインを入力"
+
+# @ responsive
+#: includes/theme-options.php:211
+msgid "Content Area"
+msgstr "コンテンツエリア"
+
+# @ responsive
+#: includes/theme-options.php:214
+msgid "Enter your content"
+msgstr "コンテンツを入力"
+
+# @ responsive
+#: includes/theme-options.php:222
+msgid "Call to Action (URL)"
+msgstr "アクション喚起ボタン (URL)"
+
+# @ responsive
+#: includes/theme-options.php:225
+msgid "Enter your call to action URL"
+msgstr "アクション喚起ボタンのリンク先 URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:233
+msgid "Call to Action (Text)"
+msgstr "アクション喚起ボタン (テキスト)"
+
+# @ responsive
+#: includes/theme-options.php:236
+msgid "Enter your call to action text"
+msgstr "アクション喚起ボタンのテキストを入力"
+
+# @ responsive
+#: includes/theme-options.php:245
+msgid "Featured Content"
+msgstr "おすすめコンテンツ"
+
+# @ responsive
+#: includes/theme-options.php:246
+msgid "http://themeid.com/forum/topic/510/theme-options-featured-content/"
+msgstr "http://themeid.com/forum/topic/510/theme-options-featured-content/"
+
+# @ responsive
+#: includes/theme-options.php:246
+#: includes/theme-options.php:247
+msgid "See Docs"
+msgstr "ドキュメンテーションを見る"
+
+# @ responsive
+#: includes/theme-options.php:251
+msgid "Paste your video or image source"
+msgstr "動画または画像のソースをペースト"
+
+# @ responsive
+#: includes/theme-options.php:260
+msgid "Webmaster Tools"
+msgstr "ウェブマスターツール"
+
+# @ responsive
+#: includes/theme-options.php:269
+msgid "Google Site Verification"
+msgstr "Google サイト認証"
+
+# @ responsive
+#: includes/theme-options.php:272
+msgid "Enter your Google ID number only"
+msgstr "Google ID の数字のみを入力"
+
+# @ responsive
+#: includes/theme-options.php:280
+msgid "Bing Site Verification"
+msgstr "Bing サイト認証"
+
+# @ responsive
+#: includes/theme-options.php:283
+msgid "Enter your Bing ID number only"
+msgstr "Bing ID の数字のみを入力"
+
+# @ responsive
+#: includes/theme-options.php:291
+msgid "Yahoo Site Verification"
+msgstr "Yahoo サイト認証"
+
+# @ responsive
+#: includes/theme-options.php:294
+msgid "Enter your Yahoo ID number only"
+msgstr "Yahoo ID の数字のみを入力"
+
+# @ responsive
+#: includes/theme-options.php:303
+msgid "Site Statistics Tracker"
+msgstr "サイト統計トラッカー"
+
+# @ responsive
+#: includes/theme-options.php:304
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr "ウェブマスターツールに対応したプラグインを使っている場合は空にしておいてください"
+
+# @ responsive
+#: includes/theme-options.php:309
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr "Google Analytics、StatCounter、その他のコード"
+
+# @ responsive
+#: includes/theme-options.php:318
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+# @ responsive
+#: includes/theme-options.php:327
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ responsive
+#: includes/theme-options.php:330
+msgid "Enter your Twitter URL"
+msgstr "Twitter URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:333
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ responsive
+#: includes/theme-options.php:336
+msgid "Enter your Facebook URL"
+msgstr "Facebook URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:339
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ responsive
+#: includes/theme-options.php:342
+msgid "Enter your LinkedIn URL"
+msgstr "LinkedIn URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:345
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ responsive
+#: includes/theme-options.php:348
+msgid "Enter your YouTube URL"
+msgstr "YouTube URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:351
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+# @ responsive
+#: includes/theme-options.php:354
+msgid "Enter your StumbleUpon URL"
+msgstr "StumbleUpon URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:357
+msgid "RSS Feed"
+msgstr "RSS フィード"
+
+# @ responsive
+#: includes/theme-options.php:360
+msgid "Enter your RSS Feed URL"
+msgstr "RSS フィードの URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:363
+msgid "Google+"
+msgstr "Google+"
+
+# @ responsive
+#: includes/theme-options.php:366
+msgid "Enter your Google+ URL"
+msgstr "Google+ URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:369
+msgid "Instagram"
+msgstr "Instagram"
+
+# @ responsive
+#: includes/theme-options.php:372
+msgid "Enter your Instagram URL"
+msgstr "Instagram URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:375
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ responsive
+#: includes/theme-options.php:378
+msgid "Enter your Pinterest URL"
+msgstr "Pinterest URL を入力"
+
+#: includes/theme-options.php:381
+msgid "Yelp!"
+msgstr "Yelp!"
+
+#: includes/theme-options.php:384
+msgid "Enter your Yelp! URL"
+msgstr "Yelp! URL を入力"
+
+#: includes/theme-options.php:387
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/theme-options.php:390
+msgid "Enter your Vimeo URL"
+msgstr "Vimeo URL を入力"
+
+#: includes/theme-options.php:393
+msgid "foursquare"
+msgstr "foursquare"
+
+#: includes/theme-options.php:396
+msgid "Enter your foursquare URL"
+msgstr "Vimeo URL を入力"
+
+# @ responsive
+#: includes/theme-options.php:405
+#: includes/theme-options.php:415
+msgid "Custom CSS Styles"
+msgstr "カスタム CSS スタイル"
+
+#: includes/theme-options.php:416
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr "https://developer.mozilla.org/ja/CSS"
+
+# @ responsive
+#: includes/theme-options.php:416
+#: includes/theme-options.php:417
+msgid "CSS Tutorial"
+msgstr "CSS チュートリアル"
+
+# @ responsive
+#: includes/theme-options.php:422
+msgid "Enter your custom CSS styles."
+msgstr "独自のカスタム CSS スタイルを入力してください。"
+
