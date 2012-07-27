@@ -1,14 +1,14 @@
-# Translation of the WordPress plugin Front-end Editor 1.9.1-alpha2 by scribu.
+# Translation of the WordPress plugin Front-end Editor 2.3 by scribu.
 # Copyright (C) 2010 scribu
 # This file is distributed under the same license as the Front-end Editor package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Front-end Editor 1.9.1-alpha2\n"
-"Report-Msgid-Bugs-To: http://wordpress.org/tag/fee\n"
-"POT-Creation-Date: 2012-03-11 23:34:37+00:00\n"
-"PO-Revision-Date: 2012-07-27 10:04+0900\n"
+"Project-Id-Version: Front-end Editor 2.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/front-end-editor\n"
+"POT-Creation-Date: 2012-07-27 06:41:12+00:00\n"
+"PO-Revision-Date: 2012-07-27 15:42+0900\n"
 "Last-Translator: Naoko McCracken <info@nao-net.com>\n"
 "Language-Team: BNG NET <webmaster@bng.net>\n"
 "MIME-Version: 1.0\n"
@@ -18,6 +18,8 @@ msgstr ""
 "X-Poedit-Country: JAPAN\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
+#. #-#-#-#-#  front-end-editor.pot (Front-end Editor 2.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
 #: admin/admin.php:9
 msgid "Front-end Editor"
 msgstr "フロントエンド・エディタ"
@@ -27,7 +29,7 @@ msgid "Fields"
 msgstr "項目"
 
 #: admin/admin.php:15
-#: lib/scb/AdminPage.php:360
+#: lib/scb/AdminPage.php:346
 msgid "Settings"
 msgstr "設定"
 
@@ -39,111 +41,107 @@ msgstr "WYSIWYG エディタを有効化する。"
 msgid "Edit all post fields at once."
 msgstr "すべての欄を一度に編集する。"
 
-#: admin/admin.php:36
-msgid "Begin editing using existing edit link (experimental)."
-msgstr "外部編集リンクを使って編集を開始する (実験中) 。"
-
-#: admin/admin.php:44
+#: admin/admin.php:37
 msgid "dropdown"
 msgstr "ドロップダウン"
 
-#: admin/admin.php:45
+#: admin/admin.php:38
 msgid "text field"
 msgstr "テキスト欄"
 
-#: admin/admin.php:47
+#: admin/admin.php:40
 msgid "To edit categories, use a:"
 msgstr "カテゴリー編集の方法:"
 
-#: admin/admin.php:82
+#: admin/admin.php:74
 msgid "Enable or disable editable fields:"
 msgstr "編集可能なフィールドを有効化・無効化:"
 
-#: admin/admin.php:84
+#: admin/admin.php:76
 msgid "Post fields"
 msgstr "記事の項目"
 
-#: admin/admin.php:85
+#: admin/admin.php:77
 msgid "Other fields"
 msgstr "その他の項目"
 
-#: front-end-editor.php:75
+#: front-end-editor.php:58
 msgid "Title"
 msgstr "タイトル"
 
-#: front-end-editor.php:82
+#: front-end-editor.php:65
 msgid "Content"
 msgstr "内容"
 
-#: front-end-editor.php:88
+#: front-end-editor.php:71
 msgid "Excerpt"
 msgstr "抜粋"
 
-#: front-end-editor.php:94
+#: front-end-editor.php:77
 msgid "Custom fields"
 msgstr "カスタムフィールド"
 
-#: front-end-editor.php:100
+#: front-end-editor.php:83
 msgid "Thumbnail"
 msgstr "サムネイル"
 
-#: front-end-editor.php:108
+#: front-end-editor.php:91
 msgid "Categories"
 msgstr "カテゴリー"
 
-#: front-end-editor.php:114
+#: front-end-editor.php:97
 msgid "Tags"
 msgstr "タグ"
 
-#: front-end-editor.php:120
+#: front-end-editor.php:103
 msgid "Terms"
 msgstr "用語"
 
-#: front-end-editor.php:127
+#: front-end-editor.php:110
 msgid "Text widget title"
 msgstr "テキストウィジェット名"
 
-#: front-end-editor.php:134
+#: front-end-editor.php:117
 msgid "Text widget content"
 msgstr "テキストウィジェットの内容"
 
-#: front-end-editor.php:141
+#: front-end-editor.php:124
 msgid "Other widgets"
 msgstr "他のウィジェット"
 
-#: front-end-editor.php:148
+#: front-end-editor.php:131
 msgid "Comment text"
 msgstr "コメントの本文"
 
-#: front-end-editor.php:154
+#: front-end-editor.php:137
 msgid "Category title"
 msgstr "カテゴリー名"
 
-#: front-end-editor.php:159
+#: front-end-editor.php:142
 msgid "Tag title"
 msgstr "タグ名"
 
-#: front-end-editor.php:164
+#: front-end-editor.php:147
 msgid "Term title"
 msgstr "用語名"
 
-#: front-end-editor.php:169
+#: front-end-editor.php:152
 msgid "Term description"
 msgstr "用語の説明"
 
-#: front-end-editor.php:176
+#: front-end-editor.php:159
 msgid "Author description"
 msgstr "作者の説明"
 
-#: front-end-editor.php:183
+#: front-end-editor.php:166
 msgid "Site title and description"
 msgstr "サイトのタイトルと説明"
 
-#: front-end-editor.php:189
+#: front-end-editor.php:172
 msgid "Site options"
 msgstr "サイトのオプション"
 
-#: front-end-editor.php:195
+#: front-end-editor.php:178
 msgid "Theme images"
 msgstr "テーマの画像"
 
@@ -168,23 +166,23 @@ msgstr "保存"
 msgid "Cancel"
 msgstr "取消"
 
-#: php/core.php:70
+#: php/core.php:68
 msgid "Change Image"
 msgstr "画像の変更"
 
-#: php/core.php:71
+#: php/core.php:69
 msgid "Insert Image"
 msgstr "画像の挿入"
 
-#: php/core.php:72
+#: php/core.php:70
 msgid "Clear"
 msgstr "クリア"
 
-#: php/core.php:276
+#: php/core.php:268
 msgid "Undefined field"
 msgstr "未定義のフィールド"
 
-#: php/core.php:280
+#: php/core.php:272
 msgid "Insufficient permissions"
 msgstr "不十分な権限"
 
@@ -192,13 +190,31 @@ msgstr "不十分な権限"
 msgid "empty"
 msgstr "空"
 
-#: php/fields/post.php:116
+#: php/fields/post.php:101
 msgid "Error: %s is currently editing this."
 msgstr "エラー: 現在 %s さんが編集中です。"
 
-#: php/fields/post.php:244
-msgid "&mdash; None &mdash;"
-msgstr "&mdash; なし &mdash;"
+#. Plugin URI of the plugin/theme
+msgid "http://scribu.net/wordpress/front-end-editor"
+msgstr "http://scribu.net/wordpress/front-end-editor"
+
+#. Description of the plugin/theme
+msgid "Allows you to edit your posts without going through the admin interface"
+msgstr "管理画面へ移動することなく記事の編集を可能にします"
+
+#. Author of the plugin/theme
+msgid "scribu"
+msgstr "scribu"
+
+#. Author URI of the plugin/theme
+msgid "http://scribu.net/"
+msgstr "http://scribu.net/"
+
+#~ msgid "Begin editing using existing edit link (experimental)."
+#~ msgstr "外部編集リンクを使って編集を開始する (実験中) 。"
+
+#~ msgid "&mdash; None &mdash;"
+#~ msgstr "&mdash; なし &mdash;"
 
 #~ msgid "Editor Panel"
 #~ msgstr "編集画面"
@@ -313,16 +329,3 @@ msgstr "&mdash; なし &mdash;"
 
 #~ msgid "Widgets"
 #~ msgstr "ウィジェット"
-
-#~ msgid "http://scribu.net/wordpress/front-end-editor"
-#~ msgstr "http://scribu.net/wordpress/front-end-editor"
-
-#~ msgid ""
-#~ "Allows you to edit your posts without going through the admin interface"
-#~ msgstr "管理画面へ移動することなく記事の編集を可能にします"
-
-#~ msgid "scribu"
-#~ msgstr "scribu"
-
-#~ msgid "http://scribu.net/"
-#~ msgstr "http://scribu.net/"
