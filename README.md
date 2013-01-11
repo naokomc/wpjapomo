@@ -13,8 +13,10 @@ WPjaPOMO contains Japanese translation for:
   * [Responsive 1.6.8](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * Plugins
+  * [Edit Flow 0.7.4](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (released)
-
+  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
+  
 "Released" means that my translation has been included in the official release. I will keep all the language files here for a historical reference, but there is no need to download them from here.
 
 ### How Do I Use These Files?
@@ -35,7 +37,9 @@ WPjaPOMO は以下の日本語翻訳を含みます。
   * [Responsive 1.6.8](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * WordPress プラグイン
+  * [Edit Flow 0.7.4](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (リリース済み)
+  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
 
 「リリース済み」と書かれているものは、翻訳がすでに公式のパッケージ内に含まれ、リリースされていることを意味します。言語ファイルを履歴のリファレンスとして残しておきますが、ここからダウンロードする必要はありません。
 
