@@ -10,10 +10,10 @@ This project is set up as a temporary repositoriy of Japanese language files (.p
 WPjaPOMO contains Japanese translation for:
 
 * WordPress Themes
-  * [Responsive 1.6.8](http://wordpress.org/extend/themes/responsive)
+  * [Responsive 1.8.7](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * Plugins
-  * [Edit Flow 0.7.4](http://wordpress.org/extend/plugins/edit-flow/)
+  * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (released)
   * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
   
@@ -34,10 +34,10 @@ These language files are intended to be used for the original Plugin/Theme files
 WPjaPOMO は以下の日本語翻訳を含みます。
 
 * WordPress テーマ
-  * [Responsive 1.6.8](http://wordpress.org/extend/themes/responsive)
+  * [Responsive 1.8.7](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * WordPress プラグイン
-  * [Edit Flow 0.7.4](http://wordpress.org/extend/plugins/edit-flow/)
+  * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (リリース済み)
   * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
 
