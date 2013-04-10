@@ -15,6 +15,7 @@ WPjaPOMO contains Japanese translation for:
 * Plugins
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (released)
+  * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
   * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
   
 "Released" means that my translation has been included in the official release. I will keep all the language files here for a historical reference, but there is no need to download them from here.
@@ -39,6 +40,7 @@ WPjaPOMO は以下の日本語翻訳を含みます。
 * WordPress プラグイン
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (リリース済み)
+  * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
   * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
 
 「リリース済み」と書かれているものは、翻訳がすでに公式のパッケージ内に含まれ、リリースされていることを意味します。言語ファイルを履歴のリファレンスとして残しておきますが、ここからダウンロードする必要はありません。
