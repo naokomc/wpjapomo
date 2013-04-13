@@ -17,11 +17,15 @@ WPjaPOMO contains Japanese translation for:
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (released)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
   * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
+  * [WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/) 
   
 "Released" means that my translation has been included in the official release. I will keep all the language files here for a historical reference, but there is no need to download them from here.
 
 ### How Do I Use These Files?
 These language files are intended to be used for the original Plugin/Theme files. Please see the header of each file for more information about the original projects.
+
+### License
+All language files are distributed under the same lincense as its parent Plugin.
 
 -----
 
@@ -42,8 +46,12 @@ WPjaPOMO は以下の日本語翻訳を含みます。
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (リリース済み)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
   * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
+  * [WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/)
 
 「リリース済み」と書かれているものは、翻訳がすでに公式のパッケージ内に含まれ、リリースされていることを意味します。言語ファイルを履歴のリファレンスとして残しておきますが、ここからダウンロードする必要はありません。
 
 ### どうやってここにある言語ファイルを使うのですか。
 これらの言語ファイルは元となるプラグイン・テーマファイルと一緒に使うものです。詳しくは各言語ファイルのヘッダー部分にあるプロジェクト詳細をご覧ください。
+
+### ライセンス
+ここで配布している言語ファイルは、その元となるプラグインファイルと同じライセンスで公開しています。

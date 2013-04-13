@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Responsive Theme\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-25 13:42:58 UTC\n"
-"PO-Revision-Date: 2013-03-08 10:08+0900\n"
+"PO-Revision-Date: 2013-04-10 11:36+0900\n"
 "Last-Translator: Naoko Takano <info@nao-net.com>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "ページ:"
 #: loop-nav.php blog.php blog-excerpt.php sidebar-content-half-page.php
 #: sidebar-content-page.php
 msgid "&#8249; Older posts"
-msgstr "&#8249; 古い投稿"
+msgstr "&#8249; 過去の投稿"
 
 #: loop-nav.php blog.php blog-excerpt.php sidebar-content-half-page.php
 #: sidebar-content-page.php
@@ -45,7 +45,7 @@ msgstr ""
 
 #: comments.php
 msgid "&#8249; Older comments"
-msgstr "&#8249; 古いコメント"
+msgstr "&#8249; 過去のコメント"
 
 #: comments.php
 msgid "Newer comments &#8250;"
