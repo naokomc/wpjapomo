@@ -13,10 +13,12 @@ WPjaPOMO contains Japanese translation for:
   * [Responsive 1.8.7](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * Plugins
+  * [Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (released)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
-  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
+  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) (released)
+  * [Limit Login Attempts 1.7.1](http://wordpress.org/extend/plugins/limit-login-attempts/) 
   * [WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/) 
   
 "Released" means that my translation has been included in the official release. I will keep all the language files here for a historical reference, but there is no need to download them from here.
@@ -42,10 +44,12 @@ WPjaPOMO は以下の日本語翻訳を含みます。
   * [Responsive 1.8.7](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * WordPress プラグイン
+  * [Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (リリース済み)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
-  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) 
+  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) (リリース済み)
+  * [Limit Login Attempts 1.7.1](http://wordpress.org/extend/plugins/limit-login-attempts/) 
   * [WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/)
 
 「リリース済み」と書かれているものは、翻訳がすでに公式のパッケージ内に含まれ、リリースされていることを意味します。言語ファイルを履歴のリファレンスとして残しておきますが、ここからダウンロードする必要はありません。
