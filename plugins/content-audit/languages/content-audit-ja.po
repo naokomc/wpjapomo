@@ -1,0 +1,347 @@
+# Translation of the WordPress plugin Content Audit 1.2 by Stephanie Leary.
+# Copyright (C) 2010 Stephanie Leary
+# This file is distributed under the same license as the Content Audit package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Audit 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/content-audit\n"
+"POT-Creation-Date: 2013-08-10 06:58:18+00:00\n"
+"PO-Revision-Date: 2013-08-10 17:13+0900\n"
+"Last-Translator: Naoko Takano <info@nao-net.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: content-audit-fields.php:17
+msgid "Content Audit Attributes"
+msgstr "コンテンツ監査属性"
+
+#: content-audit-fields.php:25
+msgid "Outdated"
+msgstr "期限切れ"
+
+#: content-audit-fields.php:29
+msgid "Redundant"
+msgstr "重複"
+
+#: content-audit-fields.php:30
+msgid "Trivial"
+msgstr "低重要度"
+
+#: content-audit-fields.php:31
+msgid "Review SEO"
+msgstr "要 SEO レビュー"
+
+#: content-audit-fields.php:32
+msgid "Review Style"
+msgstr "要スタイル確認"
+
+#: content-audit-fields.php:33
+msgid "Audited"
+msgstr "監査済み"
+
+#: content-audit-fields.php:70 content-audit-fields.php:285
+#: content-audit-fields.php:453
+msgid "Content Audit Notes"
+msgstr "コンテンツ監査メモ"
+
+#: content-audit-fields.php:71 content-audit-fields.php:433
+#: content-audit-overview.php:53 content-audit-report.php:96
+#: content-audit-report.php:259
+msgid "Content Owner"
+msgstr "コンテンツ所有者"
+
+#: content-audit-fields.php:72 content-audit-fields.php:291
+msgid "Expiration Date"
+msgstr "有効期限"
+
+#. #-#-#-#-#  content-audit.pot (Content Audit 1.5.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: content-audit-fields.php:79 content-audit.php:81
+msgid "Content Audit"
+msgstr "Content Audit"
+
+#: content-audit-fields.php:138 content-audit-fields.php:274
+#: content-audit-fields.php:439
+msgid "Select a user"
+msgstr "ユーザーを選択"
+
+#: content-audit-fields.php:279
+msgid "Content Audit Owner"
+msgstr "コンテンツ監査者"
+
+#: content-audit-fields.php:317
+msgid "Audit"
+msgstr "監査"
+
+#: content-audit-fields.php:348
+msgid "Move to Trash"
+msgstr "ゴミ箱へ移動"
+
+#: content-audit-fields.php:359
+msgid "Download Audit Report"
+msgstr "監査レポートをダウンロード"
+
+#: content-audit-fields.php:470
+msgid "Content Audit Expiration"
+msgstr "コンテンツ監査設定"
+
+#: content-audit-fields.php:470
+msgid " (m/d/y)"
+msgstr " (m/d/y)"
+
+#: content-audit-options.php:32 content-audit.php:81
+msgid "Content Audit Options"
+msgstr "コンテンツ監査設定"
+
+#: content-audit-options.php:36
+msgid "Audited content types"
+msgstr "監査するコンテンツの種類"
+
+#: content-audit-options.php:58
+msgid "Users allowed to audit"
+msgstr "監査権限のあるユーザー"
+
+#: content-audit-options.php:76
+msgid "Outdated content"
+msgstr "期限切れのコンテンツ"
+
+#: content-audit-options.php:80
+msgid "Automatically mark content as outdated if it has not been modified in"
+msgstr "以下の期間コンテンツが編集されていない場合、自動的に期限切れにする: "
+
+#: content-audit-options.php:83
+msgid "days"
+msgstr "日"
+
+#: content-audit-options.php:84
+msgid "weeks"
+msgstr "週"
+
+#: content-audit-options.php:85
+msgid "months"
+msgstr "月"
+
+#: content-audit-options.php:86
+msgid "years"
+msgstr "年"
+
+#: content-audit-options.php:94
+msgid "Email notifications"
+msgstr "メール通知"
+
+#: content-audit-options.php:99
+msgid "Notify content owners of outdated content"
+msgstr "期限切れのコンテンツを所有者に通知する"
+
+#: content-audit-options.php:100
+msgid "How often?"
+msgstr "頻度"
+
+#: content-audit-options.php:102
+msgid "once a day"
+msgstr "1日1回"
+
+#: content-audit-options.php:103
+msgid "once a week"
+msgstr "週1回"
+
+#: content-audit-options.php:104
+msgid "once a month"
+msgstr "月1回"
+
+#: content-audit-options.php:109
+msgid "Send notifications now"
+msgstr "メール通知を送信"
+
+#: content-audit-options.php:113
+msgid "Notify original author if no owner is selected"
+msgstr "所有者が指定されていない場合、元の投稿者に通知する"
+
+#: content-audit-options.php:118
+msgid "Front end display"
+msgstr "フロントエンド表示"
+
+#: content-audit-options.php:123
+msgid "Display content status, notes, and owner to logged-in auditors "
+msgstr "ログイン中の監査者にコンテンツステータス、メモ、所有者を表示する: "
+
+#: content-audit-options.php:125
+msgid "Where?"
+msgstr "位置"
+
+#: content-audit-options.php:127
+msgid "above content"
+msgstr "コンテンツ上"
+
+#: content-audit-options.php:128
+msgid "below content"
+msgstr "コンテンツ下"
+
+#: content-audit-options.php:133
+msgid "CSS for front end display"
+msgstr "フロントエンド表示用 CSS"
+
+#: content-audit-options.php:141
+msgid "Content attributes"
+msgstr "コンテンツ属性"
+
+#: content-audit-options.php:143
+msgid "Edit content audit attributes"
+msgstr "コンテンツ監査属性を編集"
+
+#: content-audit-options.php:149
+msgid "Update Options"
+msgstr "設定を更新"
+
+#: content-audit-overview.php:30 content-audit.php:83
+msgid "Content Audit Overview"
+msgstr "コンテンツ監査概要"
+
+#: content-audit-overview.php:31
+msgid "Download as CSV"
+msgstr "CSV としてダウンロード"
+
+#: content-audit-report.php:97
+msgid "Content Status"
+msgstr "コンテンツステータス"
+
+#: content-audit-report.php:98
+msgid "Notes"
+msgstr "メモ"
+
+#: content-audit-report.php:105
+msgid "Expiration"
+msgstr "期限"
+
+#: content-audit-report.php:108
+msgid "ID"
+msgstr "ID"
+
+#: content-audit-report.php:194
+msgid "Show all statuses"
+msgstr "すべてのステータスを表示"
+
+#: content-audit-report.php:219
+msgid "Show all owners"
+msgstr "すべての所有者を表示"
+
+#: content-audit-report.php:233
+msgid "Show all authors"
+msgstr "すべての投稿者を表示"
+
+#: content-audit-report.php:265
+msgid "None"
+msgstr "なし"
+
+#: content-audit-report.php:301
+msgid "Content status: "
+msgstr "コンテンツステータス:"
+
+#: content-audit-report.php:304
+msgid "Assigned to: "
+msgstr "担当者:"
+
+#: content-audit-report.php:341
+msgid "Last Modified"
+msgstr "最終編集日"
+
+#: content-audit-report.php:342
+msgid "See all..."
+msgstr "すべてを表示"
+
+#: content-audit-report.php:347
+msgid "Congratulations! All your content is up to date."
+msgstr "おめでとうございます。すべてのコンテンツが最新状態になっています。"
+
+#: content-audit-report.php:348
+msgid "<a href=\"%s\">Content Audit Overview</a>"
+msgstr "<a href=\"%s\">コンテンツ監査概要</a>"
+
+#: content-audit-report.php:352
+msgid "Outdated Content"
+msgstr "期限切れのコンテンツ"
+
+#: content-audit-schedule.php:11
+msgid "Once a Week"
+msgstr "週1回"
+
+#: content-audit-schedule.php:15
+msgid "Once a Month"
+msgstr "月1回"
+
+#: content-audit-schedule.php:110
+msgid "Outdated content report:"
+msgstr "期限切れコンテンツレポート:"
+
+#: content-audit-schedule.php:111
+msgid "The following articles are outdated. Please review them:"
+msgstr "以下の記事は期限切れになっています。レビューを行ってください。"
+
+#: content-audit-schedule.php:112
+msgid ""
+"If the article does not need to be updated, just uncheck the \"Outdated\" "
+"box and press the \"Update\" button."
+msgstr ""
+"記事を更新する必要がない場合、「期限切れ」ボックスのチェックを外し「更新」を"
+"クリックしてください。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://sillybean.net/code/wordpress/content-audit/"
+msgstr "http://sillybean.net/code/wordpress/content-audit/"
+
+#. Description of the plugin/theme
+msgid ""
+"Lets you create a content inventory and notify the responsible parties about "
+"their outdated content."
+msgstr ""
+"コンテンツ目録を作成し、期限切れのコンテンツについて担当者・部署などに通知し"
+"ます。"
+
+#. Author of the plugin/theme
+msgid "Stephanie Leary"
+msgstr "Stephanie Leary"
+
+#. Author URI of the plugin/theme
+msgid "http://sillybean.net/"
+msgstr "http://sillybean.net/"
+
+#, fuzzy
+#~ msgid "."
+#~ msgstr "。"
+
+#~ msgid "Administrators"
+#~ msgstr "管理者"
+
+#~ msgid "Editors"
+#~ msgstr "編集者"
+
+#~ msgid "Authors"
+#~ msgstr "投稿者"
+
+#~ msgid "Contributors"
+#~ msgstr "協力者"
+
+#~ msgid "Subscribers"
+#~ msgstr "購読者"
+
+#~ msgid ""
+#~ "Note: Email notifications will be sent as soon as you update these "
+#~ "options, and will then be scheduled to repeat using the interval you have "
+#~ "selected."
+#~ msgstr ""
+#~ "注: 以下の設定を更新するとすぐにメール通知が送信され、選択した頻度での予約"
+#~ "通知が設定されます。"
+
+#~ msgid "Content status labels"
+#~ msgstr "コンテンツステータスラベル"
+
+#~ msgid "Edit content audit status labels"
+#~ msgstr "コンテンツ監査ステータスラベルを編集"
+
+#~ msgid "Settings"
+#~ msgstr "設定"

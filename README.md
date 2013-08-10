@@ -14,6 +14,7 @@ WPjaPOMO contains Japanese translation for:
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * Plugins
   * [Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)
+  * [Content Audit 1.5.2](http://wordpress.org/support/plugin/content-audit) (Plugin requires a [patch](http://plugins.trac.wordpress.org/ticket/1863))
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (released)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
@@ -45,6 +46,7 @@ WPjaPOMO は以下の日本語翻訳を含みます。
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * WordPress プラグイン
   * [Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)
+  * [Content Audit 1.5.2](http://wordpress.org/support/plugin/content-audit) (プラグインに[パッチ](http://plugins.trac.wordpress.org/ticket/1863)を当てる必要があります)
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
   * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (リリース済み)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
