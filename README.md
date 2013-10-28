@@ -1,9 +1,10 @@
 # WPjaPOMO
+Visit [WPjaPOMO](https://github.com/naokomc/wpjapomo) on Github
 
 ## English README
 
 ### What is This Project For?
-This project is set up as a temporary repositoriy of Japanese language files (.po/.mo) for WordPress Plugins, Themes and other miscellaneous stuff that are not available on GlotPress (http://translate.wordpress.org/ and http://translate.wordpress.com/).
+This project is set up as a temporary repository of Japanese language files (.po/.mo) for WordPress Plugins, Themes and other miscellaneous stuff that are not available on GlotPress (http://translate.wordpress.org/ and http://translate.wordpress.com/).
 
 ### Translated Projects
 
@@ -13,22 +14,23 @@ WPjaPOMO contains Japanese translation for:
   * [Responsive 1.8.7](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * Plugins
-  * [Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)
+  * ~~[Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)~~ (released)
+  * [Broken Link Checker 1.9.1](http://wordpress.org/plugins/broken-link-checker/) (Updated based on [ningendesu](http://ningendesu.com/)'s existing translation) 
   * [Content Audit 1.5.2](http://wordpress.org/support/plugin/content-audit) (Plugin requires a [patch](http://plugins.trac.wordpress.org/ticket/1863))
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
-  * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (released)
+  * ~~[Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/)~~ (released)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
-  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) (released)
+  * ~~[Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/)~~ (released)
   * [Limit Login Attempts 1.7.1](http://wordpress.org/extend/plugins/limit-login-attempts/) 
-  * [WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/) 
-  
-"Released" means that my translation has been included in the official release. I will keep all the language files here for a historical reference, but there is no need to download them from here.
+  * ~~[WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/)~~ (released)
+
+"Released" means that my translation has been included in the official release. I will keep all the language files here for a historical reference, but there is **no need to download them from here**.
 
 ### How Do I Use These Files?
 These language files are intended to be used for the original Plugin/Theme files. Please see the header of each file for more information about the original projects.
 
 ### License
-All language files are distributed under the same lincense as its parent Plugin.
+All language files are distributed under the same license as its parent Plugin.
 
 -----
 
@@ -45,16 +47,18 @@ WPjaPOMO は以下の日本語翻訳を含みます。
   * [Responsive 1.8.7](http://wordpress.org/extend/themes/responsive)
   * [Shell Lite 1.4.4](http://wordpress.org/extend/themes/shell-lite)
 * WordPress プラグイン
-  * [Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)
+  * ~~[Add From Server 3.2.0.2](http://wordpress.org/support/plugin/add-from-server)~~ (リリース済み)
+  * [Broken Link Checker 1.9.1](http://wordpress.org/plugins/broken-link-checker/) ([ningendesu](http://ningendesu.com/) さんの既存翻訳をベースに更新) 
   * [Content Audit 1.5.2](http://wordpress.org/support/plugin/content-audit) (プラグインに[パッチ](http://plugins.trac.wordpress.org/ticket/1863)を当てる必要があります)
   * [Edit Flow 0.7.5-working](http://wordpress.org/extend/plugins/edit-flow/)
-  * [Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/) (リリース済み)
+  * ~~[Front-end Editor 2.3](http://wordpress.org/extend/plugins/front-end-editor/)~~ (リリース済み)
   * [Google (XML) Sitemaps Generator 3.1.4](http://wordpress.org/extend/plugins/google-sitemap-generator/) 
-  * [Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/) (リリース済み)
+  * ~~[Jetpack by WordPress.com 2.1](http://wordpress.org/extend/plugins/jetpack/)~~ (リリース済み)
   * [Limit Login Attempts 1.7.1](http://wordpress.org/extend/plugins/limit-login-attempts/) 
-  * [WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/)
+  * ~~[WordPress Beta Tester 0.96](http://wordpress.org/extend/plugins/wordpress-beta-tester/)~~ (リリース済み)
 
-「リリース済み」と書かれているものは、翻訳がすでに公式のパッケージ内に含まれ、リリースされていることを意味します。言語ファイルを履歴のリファレンスとして残しておきますが、ここからダウンロードする必要はありません。
+
+「リリース済み」と書かれているものは、翻訳がすでに公式のパッケージ内に含まれ、リリースされていることを意味します。言語ファイルを履歴のリファレンスとして残しておきますが、**ここからダウンロードする必要はありません**。
 
 ### どうやってここにある言語ファイルを使うのですか。
 これらの言語ファイルは元となるプラグイン・テーマファイルと一緒に使うものです。詳しくは各言語ファイルのヘッダー部分にあるプロジェクト詳細をご覧ください。
