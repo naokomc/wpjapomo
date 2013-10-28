@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Broken Link Checker 0.9.2\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/broken-link-checker\n"
 "POT-Creation-Date: 2013-10-14 09:34:17+00:00\n"
-"PO-Revision-Date: 2013-10-28 18:44+0900\n"
+"PO-Revision-Date: 2013-10-28 21:15+0900\n"
 "Last-Translator: Naoko Takano <info@nao-net.com>\n"
 "Language-Team: 人間です <a@ningendesu.com>\n"
 "Language: ja_JP\n"
@@ -432,7 +432,7 @@ msgstr "このリンクは手動で有効リンクとしてマークされまし
 
 #: core/core.php:1920
 msgid "Couldn't modify link %d"
-msgstr "%d件のリンクを編集できませんでした。"
+msgstr "リンク #%d を編集できませんでした。"
 
 #: core/core.php:1930
 msgid "%d link marked as not broken"
@@ -485,7 +485,7 @@ msgstr[1] "%d件のエラーリンクを発見しました"
 
 #: core/core.php:2384
 msgid "No broken links found."
-msgstr "エラーリンクが見つかりませんでした。"
+msgstr "エラーリンクは見つかっていません。"
 
 #: core/core.php:2391
 msgid "%d URL in the work queue"
@@ -741,7 +741,7 @@ msgstr "候補はありません。"
 #: includes/admin/links-page-js.php:296
 msgctxt "link suggestions"
 msgid "Archived page from %s (via the Wayback Machine)"
-msgstr "%s からのアーカイブページ (Wayback Machine 提供)"
+msgstr "%s のアーカイブページ (Wayback Machine 提供)"
 
 #: includes/admin/links-page-js.php:379
 msgid "%d instances of the link were successfully modified."
@@ -768,7 +768,7 @@ msgstr "エラー: リンク URL を必ず入力してください。"
 
 #: includes/admin/links-page-js.php:555
 msgid "%d instances of the link were successfully unlinked."
-msgstr "%d件のリンクインスタンスのリンクを外しました。"
+msgstr "%d件のインスタンスのリンクを外しました。"
 
 #: includes/admin/links-page-js.php:561
 msgid "However, %d instances couldn't be removed."
@@ -1025,7 +1025,7 @@ msgstr[1] "最終チェック%d時間前"
 
 #: includes/admin/table-printer.php:559
 msgid "This link has been broken for %s."
-msgstr "%s間、リンクがエラー状態になっています。"
+msgstr "%sの間、リンクがエラー状態になっています。"
 
 #: includes/admin/table-printer.php:570
 msgid "Log"
@@ -1070,11 +1070,11 @@ msgstr "リンクの無視を解除"
 
 #: includes/admin/table-printer.php:672
 msgid "Undismiss"
-msgstr "無視解除"
+msgstr "無視を解除"
 
 #: includes/admin/table-printer.php:683
 msgid "Update URL"
-msgstr "URLを編集"
+msgstr "URL を編集"
 
 #: includes/admin/table-printer.php:710
 msgid "[An orphaned link! This is a bug.]"
@@ -1821,8 +1821,8 @@ msgid ""
 "Checks your blog for broken links and missing images and notifies you on the "
 "dashboard if any are found."
 msgstr ""
-"リンクエラーやリンクエラーの画像がないかブログをチェックし、見つかった場合"
-"は、ダッシュボード等で通知します。"
+"リンクエラーや存在しない画像がないかブログをチェックし、見つかった場合はダッ"
+"シュボードで通知します。"
 
 #. Author of the plugin/theme
 msgid "Janis Elsts"
