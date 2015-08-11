@@ -1,0 +1,410 @@
+# Copyright (C) 2015 WP Smush
+# This file is distributed under the same license as the WP Smush package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Smush 2.0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-smush\n"
+"POT-Creation-Date: 2015-08-12 05:44+0900\n"
+"PO-Revision-Date: 2015-08-12 05:46+0900\n"
+"Last-Translator: Naoko Takano <info@nao-net.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/class-wp-smush-admin.php:106 lib/class-wp-smush-admin.php:290
+msgid "WP Smush"
+msgstr "WP Smush"
+
+#: lib/class-wp-smush-admin.php:209 lib/class-wp-smush-admin.php:980
+#: lib/class-wp-smush-admin.php:996
+msgid "Bulk Smush Now"
+msgstr "今すぐ一括圧縮"
+
+#: lib/class-wp-smush-admin.php:211 lib/class-wp-smush-admin.php:1000
+msgid "Bulk Smush %d Attachments"
+msgstr "%d件の添付ファイルを一括圧縮"
+
+#: lib/class-wp-smush-admin.php:215
+msgid "Smushing in Progress"
+msgstr "画像を圧縮中"
+
+#: lib/class-wp-smush-admin.php:216 lib/class-wp-smush-admin.php:990
+msgid "All Done!"
+msgstr "すべて完了しました。"
+
+#: lib/class-wp-smush-admin.php:218
+msgid "Ops!... something went wrong"
+msgstr "何かがうまくいかなかったようです。"
+
+#: lib/class-wp-smush-admin.php:219 wp-smush.php:712
+msgid "Super-Smush"
+msgstr "超圧縮"
+
+#: lib/class-wp-smush-admin.php:220
+msgid "Smush it"
+msgstr "圧縮"
+
+#: lib/class-wp-smush-admin.php:221
+msgid "Smush Now"
+msgstr "今すぐ圧縮"
+
+#: lib/class-wp-smush-admin.php:222
+msgid "Sending ..."
+msgstr "送信中…"
+
+#: lib/class-wp-smush-admin.php:223
+msgid "{{errors}} image(s) were skipped due to an error."
+msgstr "{{errors}} エラーのため画像がスキップされました。"
+
+#: lib/class-wp-smush-admin.php:224
+msgid "All images are Super-Smushed."
+msgstr "すべての画像が超圧縮済みです。"
+
+#: lib/class-wp-smush-admin.php:262
+msgid "Auto-Smush images on upload"
+msgstr "アップロード時に画像を自動圧縮"
+
+#: lib/class-wp-smush-admin.php:263
+msgid "Super-Smush images"
+msgstr "画像を超圧縮"
+
+#: lib/class-wp-smush-admin.php:263
+msgid "lossy optimization"
+msgstr "不可逆圧縮"
+
+#: lib/class-wp-smush-admin.php:264
+msgid "Backup original images"
+msgstr "元の画像をバックアップ"
+
+#: lib/class-wp-smush-admin.php:264
+msgid "this will nearly double the size of your uploads directory"
+msgstr "これはアップロードディレクトリのサイズをほぼ2倍に拡張します"
+
+#: lib/class-wp-smush-admin.php:288
+msgid "WP Smush Pro"
+msgstr "WP Smush Pro"
+
+#: lib/class-wp-smush-admin.php:296
+msgid "Thanks for using WP Smush Pro! You now can:"
+msgstr "WP Smush Pro のご利用ありがとうございます。以下のことができます。"
+
+#: lib/class-wp-smush-admin.php:298 lib/class-wp-smush-admin.php:309
+msgid ""
+"\"Super-Smush\" your images with our intelligent multi-pass lossy "
+"compression. Get 2&times; more compression than lossless with almost no "
+"noticeable quality loss!"
+msgstr ""
+"画像をスマートなマルチパス非可逆圧縮で「超圧縮」。顕著な質の損失はほとんどな"
+"いままで、可逆圧縮に比べ倍の圧縮率を得ることができます。"
+
+#: lib/class-wp-smush-admin.php:299 lib/class-wp-smush-admin.php:310
+msgid ""
+"Get the best lossless compression. We try multiple methods to squeeze every "
+"last byte out of your images."
+msgstr ""
+"最高の可逆圧縮を手に入れましょう。画像の最後のバイトまですべてを圧縮するた"
+"め、複数の方法を試みます。"
+
+#: lib/class-wp-smush-admin.php:300
+msgid "Smush images up to 8MB."
+msgstr "8MB 以下の画像を圧縮。"
+
+#: lib/class-wp-smush-admin.php:301
+msgid "Bulk smush ALL your images with one click!"
+msgstr "すべての画像を一括圧縮"
+
+#: lib/class-wp-smush-admin.php:302 lib/class-wp-smush-admin.php:313
+msgid ""
+"Keep a backup of your original un-smushed images in case you want to restore "
+"later."
+msgstr ""
+"万が一後で復元したい場合のために、圧縮以前の元画像のバックアップを保管しま"
+"す。"
+
+#: lib/class-wp-smush-admin.php:307
+msgid "Upgrade to WP Smush Pro to:"
+msgstr "WP Smush Pro にアップグレード:"
+
+#: lib/class-wp-smush-admin.php:311
+msgid "Smush images greater than 1MB."
+msgstr "1MB 以上の画像を圧縮。"
+
+#: lib/class-wp-smush-admin.php:312
+msgid "Bulk smush ALL your images with one click! No more rate limiting."
+msgstr "ワンクリックですべての画像を一括圧縮。速度制限はありません。"
+
+#: lib/class-wp-smush-admin.php:314
+msgid ""
+"Access 24/7/365 support from <a href=\"https://premium.wpmudev.org/support/?"
+"utm_source=wordpress.org&utm_medium=plugin&utm_campaign=WP%20Smush%20Upgrade"
+"\">the best WordPress support team on the planet</a>."
+msgstr ""
+"<a href=\"https://premium.wpmudev.org/support/?utm_source=wordpress."
+"org&utm_medium=plugin&utm_campaign=WP%20Smush%20Upgrade\">世界最高レベルの "
+"WordPress サポートチーム</a>による、年中無休のサポートにアクセス。"
+
+#: lib/class-wp-smush-admin.php:315
+msgid ""
+"Download <a href=\"https://premium.wpmudev.org/?utm_source=wordpress."
+"org&utm_medium=plugin&utm_campaign=WP%20Smush%20Upgrade\">350+ other premium "
+"plugins and themes</a> included in your membership."
+msgstr ""
+"メンバーシップに含まれる<a href=\"https://premium.wpmudev.org/?"
+"utm_source=wordpress.org&utm_medium=plugin&utm_campaign=WP%20Smush%20Upgrade"
+"\">350個以上の追加プレミアムプラグインとテーマ</a>をダウンロード。"
+
+#: lib/class-wp-smush-admin.php:318
+msgid "Upgrade Now &raquo;"
+msgstr "今すぐアップグレード &raquo;"
+
+#: lib/class-wp-smush-admin.php:321
+msgid ""
+"Already upgraded to a WPMU DEV membership? Install and Login to our "
+"Dashboard plugin to enable Smush Pro features."
+msgstr ""
+"WPMU DEV メンバーシップにアップグレード済みの場合は、Smush Pro の機能を有効化"
+"するためダッシュボードプラグインをインストール後、ログインしてください。"
+
+#: lib/class-wp-smush-admin.php:330
+msgid "Activate WPMU DEV Dashboard"
+msgstr "WPMU DEV ダッシュボードを有効化"
+
+#: lib/class-wp-smush-admin.php:333
+msgid "Install WPMU DEV Dashboard"
+msgstr "WPMU DEV ダッシュボードをインストール"
+
+#: lib/class-wp-smush-admin.php:344 lib/class-wp-smush-admin.php:1049
+msgid "Settings"
+msgstr "設定"
+
+#: lib/class-wp-smush-admin.php:430
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: lib/class-wp-smush-admin.php:502
+msgid ""
+"%d image is over 1MB so will be skipped using the free version of the plugin."
+msgid_plural ""
+"%d images are over 1MB so will be skipped using the free version of the "
+"plugin."
+msgstr[0] ""
+"%d個の画像が 1MB よりも大きいため、無料バージョンのプラグインではスキップされ"
+"ます。"
+
+#: lib/class-wp-smush-admin.php:511
+msgid "Smush in Bulk"
+msgstr "一括画像圧縮"
+
+#: lib/class-wp-smush-admin.php:516
+msgid "Congratulations, all your images are currently Smushed!"
+msgstr "すべての画像がすでに圧縮済みです。"
+
+#: lib/class-wp-smush-admin.php:525
+msgid "%d attachment in your media library has not been smushed."
+msgid_plural ""
+"%d image attachments in your media library have not been smushed yet."
+msgstr[0] "メディアライブラリー内の添付ファイル%d個がまだ圧縮されていません。"
+
+#: lib/class-wp-smush-admin.php:529
+msgid "Remove size limit &raquo;"
+msgstr "サイズ上限を解除 &raquo;"
+
+#: lib/class-wp-smush-admin.php:534
+msgid ""
+"Please be aware, smushing a large number of images can take a while "
+"depending on your server and network speed.\n"
+"\t\t\t\t\t\t<strong>You must keep this page open while the bulk smush is "
+"processing</strong>, but you can leave at any time and come back to continue "
+"where it left off."
+msgstr ""
+"多数の画像を圧縮する場合、サーバーおよびネットワークの速度に応じて時間がかか"
+"ることがある点をご注意ください。\n"
+"\t\t\t\t\t\t<strong>一括圧縮処理中にこのページを開いたままにしておく必要があ"
+"ります</strong>が、もし閉じた場合はまた戻ってきて中断した時点から再開できま"
+"す。"
+
+#: lib/class-wp-smush-admin.php:539
+msgid ""
+"Free accounts are limited to bulk smushing %d attachments per request. You "
+"will need to click to start a new bulk job after each %d attachments."
+msgstr ""
+"無料のアカウントでの一括圧縮は、1リクエストあたり%d個の添付ファイルに限定され"
+"ます。%d個の添付ファイルの処理が終わるごとに、新たにクリックして一括処理を開"
+"始する必要があります。"
+
+#: lib/class-wp-smush-admin.php:540
+msgid "Remove limits &raquo;"
+msgstr "上限を解除 &raquo;"
+
+#: lib/class-wp-smush-admin.php:560
+msgid ""
+"When you <a href=\"%s\">upload some images</a> they will be available to "
+"smush here."
+msgstr ""
+"<a href=\"%s\">いくつか画像をアップロード</a>すると、ここで圧縮できるようにな"
+"ります。"
+
+#: lib/class-wp-smush-admin.php:566 lib/class-wp-smush-admin.php:802
+msgid ""
+"You can also smush images individually from your <a href=\"%s\">Media "
+"Library</a>."
+msgstr ""
+"また、<a href=“%s”>メディアライブラリ</a>からも画像を個別に圧縮できます。"
+
+#: lib/class-wp-smush-admin.php:618
+msgid "Reduced by "
+msgstr "圧縮:"
+
+#: lib/class-wp-smush-admin.php:628
+msgid ""
+"<span class=\"done-count\">%d</span> of <span class=\"total-count\">%d</"
+"span> total attachments have been smushed"
+msgstr ""
+"<span class=\"done-count\">%d個</span> <span class=\"total-count\">(合計%d個"
+"中)</span> の添付ファイルを圧縮済み"
+
+#: lib/class-wp-smush-admin.php:698
+msgid "You don't have permission to work with uploaded files."
+msgstr "添付ファイルを処理する権限がありません。"
+
+#: lib/class-wp-smush-admin.php:702
+msgid "No attachment ID was provided."
+msgstr "添付ファイル ID がありません。"
+
+#: lib/class-wp-smush-admin.php:772
+msgid "<p>Please <a href=\"%s\">upload some images</a>.</p>"
+msgstr "<p><a href=“%s”>いくつか画像をアップロード</a>してください。</p>"
+
+#: lib/class-wp-smush-admin.php:790
+msgid "All your images are already smushed!"
+msgstr "すべての画像がすでに圧縮済みです。"
+
+#: lib/class-wp-smush-admin.php:890
+msgid "<strong>%d of %d images</strong> were sent for smushing:"
+msgstr "<strong>%d個 (全%d個中) の画像</strong>を圧縮のために送信しました。"
+
+#: lib/class-wp-smush-admin.php:1176
+msgid "Super-Smush Images"
+msgstr "画像を超圧縮"
+
+#: lib/class-wp-smush-admin.php:1177
+msgid ""
+"We found attachments that were previously smushed losslessly. If desired you "
+"can Super-Smush them now for more savings with almost no noticeable quality "
+"loss."
+msgstr ""
+"以前 smushed ロスレスにした添付ファイルを発見しました。スーパー スマッシュを"
+"することができます希望する場合ほとんどの顕著な質の損失と貯蓄のための今それ"
+"ら。"
+
+#: lib/class-wp-smush-admin.php:1185
+msgid ""
+"<span class=\"remaining-count\">%d</span> attachment left to Super-Smush"
+msgid_plural ""
+"<span class=\"remaining-count\">%d</span> attachments left to Super-Smush"
+msgstr[0] ""
+"まだ<span class=“remaining-count”>%d</span>個の添付ファイルが超圧縮できます"
+
+#: wp-smush.php:142
+msgid "File path is empty"
+msgstr "ファイルパスが空です"
+
+#: wp-smush.php:146
+msgid "File URL is empty"
+msgstr "ファイル URL が空です"
+
+#: wp-smush.php:151
+msgid "Could not find %s"
+msgstr "%s が見つかりませんでした"
+
+#: wp-smush.php:156
+msgid "%s is not writable"
+msgstr "%s は書き込み不可能です"
+
+#: wp-smush.php:166
+msgid "Skipped (%s), image not found."
+msgstr "スキップ (%s) しました。画像が見つかりませんでした。"
+
+#: wp-smush.php:171
+msgid "Skipped (%s), size limit exceeded."
+msgstr "スキップ (%s) しました。サイズの上限を超えています。"
+
+#: wp-smush.php:186
+msgid "Unknown API error"
+msgstr "不明な API エラー"
+
+#: wp-smush.php:330
+msgid "Size '%s' not processed correctly"
+msgstr "%sサイズの画像を正しく処理できませんでした"
+
+#: wp-smush.php:352 wp-smush.php:360
+msgid "Size 'full' not processed correctly"
+msgstr "フルサイズの画像を正しく処理できませんでした。"
+
+#: wp-smush.php:476
+msgid "Error posting to API: %s"
+msgstr "API への送信エラー: %s"
+
+#: wp-smush.php:482
+msgid "Error posting to API: %s %s"
+msgstr "API への送信エラー: %s %s"
+
+#: wp-smush.php:499
+msgid "Smush data corrupted, try again."
+msgstr "圧縮データが壊れています。もう一度お試しください。"
+
+#: wp-smush.php:515
+msgid "Image couldn't be smushed"
+msgstr "画像を圧縮できませんでした"
+
+#: wp-smush.php:686
+msgid "Error processing request"
+msgstr "リクエスト処理エラー"
+
+#: wp-smush.php:690
+msgid "Already Optimized"
+msgstr "最適化済み"
+
+#: wp-smush.php:692
+msgid "Reduced by %s (  %01.1f%% )"
+msgstr "%s 圧縮 (  %01.1f%% )"
+
+#: wp-smush.php:718
+msgid "Not processed"
+msgstr "処理できませんでした"
+
+#: wp-smush.php:724
+msgid "Smush Now!"
+msgstr "今すぐ圧縮 !"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/wp-smushit/"
+msgstr "http://wordpress.org/extend/plugins/wp-smushit/"
+
+#. Description of the plugin/theme
+msgid ""
+"Reduce image file sizes, improve performance and boost your SEO using the "
+"free <a href=\"https://premium.wpmudev.org/\">WPMU DEV</a> WordPress Smush "
+"API."
+msgstr ""
+"無料の <a href=\"https://premium.wpmudev.org/\">WPMU DEV</a> WordPress Smush "
+"API を使用して画像ファイルサイズを縮小しパフォーマンスを向上させて、SEO 効果"
+"を高めます。"
+
+#. Author of the plugin/theme
+msgid "WPMU DEV"
+msgstr "WPMU DEV"
+
+#. Author URI of the plugin/theme
+msgid "http://premium.wpmudev.org/"
+msgstr "http://premium.wpmudev.org/"
